@@ -1,6 +1,6 @@
 {
-  "name": "immutable",
-  "version": "4.0.0-rc.12",
+  "name": "@subash-a/immutable-js",
+  "version": "4.0.0-rc.12.3",
   "description": "Immutable Data Collections",
   "license": "MIT",
   "homepage": "https://facebook.github.com/immutable-js",

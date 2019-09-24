@@ -1,0 +1,10 @@
+__tests__
+contrib
+node_modules
+pages
+perf
+resources
+src
+type-definitions
+yarn.lock
+package-lock.json
